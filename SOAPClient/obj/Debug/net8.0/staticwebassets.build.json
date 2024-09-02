@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QF3uJVaaNQAhsGQ1PN9ik1SE0mKl5PZDT0rV+xGQYnA=",
+  "Source": "SOAPClient",
+  "BasePath": "_content/SOAPClient",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

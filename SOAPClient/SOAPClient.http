@@ -1,0 +1,6 @@
+@SOAPClient_HostAddress = http://localhost:5003
+
+GET {{SOAPClient_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
